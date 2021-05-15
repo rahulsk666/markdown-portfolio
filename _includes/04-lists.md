@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+*this
+*Is
+*A
+*List
+
+:smile: :heart:
+:+1: :tada:
